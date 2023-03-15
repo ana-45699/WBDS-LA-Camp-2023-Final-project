@@ -8,6 +8,7 @@
 * subprocess
 * sys
 * biopython
+* scipy.stats
 
 ## Corrida del código
 
